@@ -1,0 +1,5 @@
+#Hash demonstrating the comment character
+#Typical backup file patterns
+*~ #anything that ends in a tilde
+\#*# #Anything that begins and ends in a hash
+*.bak #anything that ends with the extensions ".bak"
